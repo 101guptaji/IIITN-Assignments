@@ -1,0 +1,5 @@
+n=int(input())
+arr=list(map(int,input().split()))
+arr=list(map(abs, arr))
+#print(arr,type(arr))
+print(min(arr))

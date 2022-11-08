@@ -1,0 +1,17 @@
+A1=int(input())
+B1=int(input())
+C1=int(input())
+D1=int(input())
+E1=int(input())
+A2=int(input())
+B2=int(input())
+C2=int(input())
+D2=int(input())
+E2=int(input())
+pet=((A1*B1*D1)+E1)*60+C1
+dis=((A2*B2*D2)+E2)*60+C2
+#print(pet,dis)
+if(pet<dis):
+    print("petrol")
+else:
+    print("diesel")
