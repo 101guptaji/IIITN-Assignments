@@ -1,0 +1,20 @@
+1.a.Program to make a calculator using switch case
+1.b.Program to find the sum of multiple numbers using Method Overloading
+
+2.a. Write a program to add elements to HashSet?
+2.b Program to Convert HashSet to Array in Java
+
+3.a. Write a program to add elements to the HashMap given the key and value data type is String? 
+3.b. How To Check If A HashMap Is Empty Or Not
+
+
+4) we have a parent class Teacher and a child class MathTeacher. In the MathTeacher class we need not to write the same code which is already present in the present class. Here we have college name, designation and does() method that is common for all the teachers, thus MathTeacher class does not need to write this code, the common data members and methods can inherited from the Teacher class.
+
+
+5) Create a table called employee, with the coulumns ( EmpName, id , Dept)
+   Establish the connection to database and insert few values
+
+
+Rakshita
+Tarkeshwar
+Naveen

@@ -1,0 +1,14 @@
+Bagya Lakshmi iGTB
+10:08 AM
+1. Reverse a number using while Loop  (5)
+     Looping concepts
+
+2.Java Program to find duplicate Characters in a String Collection class  (5)
+
+3. Write a Java Program to find the second highest number in an array. (5)
+      Manipulating Arrays
+
+4. Write a Java Program to count the number of words in a string using HashMap. (5)
+        Collections concept implementation
+
+5. Write a Java Program to reverse a string without using String inbuilt function reverse().  (5)
